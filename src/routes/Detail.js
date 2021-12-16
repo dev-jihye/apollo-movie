@@ -24,9 +24,6 @@ const Container = styled.div`
   height: 100%;
   background-image: linear-gradient(-45deg, #d754ab, #fd723a);
   width: 100%;
-  /* display: flex; */
-  /* justify-content: space-around;
-  align-items: center; */
   color: white;
 `;
 
